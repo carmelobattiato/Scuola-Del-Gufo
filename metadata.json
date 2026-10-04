@@ -1,0 +1,6 @@
+{
+  "name": "Accademia d'Italiano",
+  "description": "Piattaforma educativa interattiva per la scuola elementare con intelligenza artificiale, esercizi giornalieri, lettura vocale e area genitori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
